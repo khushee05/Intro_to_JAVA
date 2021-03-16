@@ -1,3 +1,5 @@
+/* */
+
 package intro_to_java;
 
 import java.util.Scanner;
